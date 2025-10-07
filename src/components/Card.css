@@ -1,0 +1,12 @@
+.playercard {
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    padding: 1rem;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+.playerinfo {
+    display: flex;
+    flex-direction: column;
+}
