@@ -7,12 +7,12 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-      <div style={{ padding: "2rem", fontFamily: "Poppins, sans-serif" }}>
       <Header/>
-      <Playercard></Playercard>
-      {players.map((item,index) => {
-        <Playercard key={index} player={item} /> 
-      })}
+      <div>
+        {players.map((player, index) => (
+          <Playercard key={index} player={player}/>
+        ))}
+      </div>
       <Footer/>
   </>
   )
