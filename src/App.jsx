@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header/>
-      <div>
+      <div className="carddd">
         {players.map((player, index) => (
           <Playercard key={index} player={player}/>
         ))}
