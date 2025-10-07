@@ -1,5 +1,5 @@
 import React from 'react';
-import { playersData } from '../players';
+//import { playersData } from '../players';
 //import ItemCard from './Card';
 
 export default function mainContent() {
