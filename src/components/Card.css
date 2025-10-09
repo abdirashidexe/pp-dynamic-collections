@@ -1,12 +1,43 @@
 .playercard {
     display: flex;
     flex-direction: row;
-    background-color: lightgray;
+    background-color: #005C5C;
+    border: 5px solid #C4CED4;
     padding: 1rem;
     border-radius: 20px;
     margin-bottom: 1rem;
 }
+.playercard > img {
+    margin: auto;
+    width: 10%;
+    height: 10%;
+}
+#number {
+    margin: auto;
+    width: 5%;
+}
+#name {
+    margin: auto;
+    width: 40%;
+}
+#pos {
+    margin: auto;
+    width: 10%;
+}
+#stat {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 150%;
+    width: 25%;
+}
 .playerinfo {
+    width: 45%;
     display: flex;
     flex-direction: column;
+}
+.teams {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
