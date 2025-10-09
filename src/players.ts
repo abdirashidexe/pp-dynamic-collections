@@ -2,7 +2,7 @@ export const players = [
   // --- Starting 9 ---
   {
     "name": "Julio Rodríguez",
-    "img": "./src/images/julio-r.png",
+    "img": "./images/julio-r.png",
     "position": "CF",
     "jersey": "44",
     "birthdate": "12/29/2000",
@@ -12,7 +12,7 @@ export const players = [
   },
   {
     "name": "J.P. Crawford",
-    "img": "./src/images/jp-c.png",
+    "img": "./images/jp-c.png",
     "position": "SS",
     "jersey": "3",
     "birthdate": "01/11/1995",
@@ -22,7 +22,7 @@ export const players = [
   },
   {
     "name": "Cal Raleigh",
-    "img": "./src/images/cal-r.png",
+    "img": "./images/cal-r.png",
     "position": "C",
     "jersey": "29",
     "birthdate": "11/26/1996",
@@ -32,7 +32,7 @@ export const players = [
   },
   {
     "name": "Jorge Polanco",
-    "img": "./src/images/jorge-p.png",
+    "img": "./images/jorge-p.png",
     "position": "INF / DH",
     "jersey": "7",
     "birthdate": "07/05/1993",
@@ -42,7 +42,7 @@ export const players = [
   },
   {
     "name": "Eugenio Suárez",
-    "img": "./src/images/eugenio-s.png",
+    "img": "./images/eugenio-s.png",
     "position": "3B / INF",
     "jersey": "28",
     "birthdate": "07/18/1991",
@@ -52,7 +52,7 @@ export const players = [
   },
   {
     "name": "Randy Arozarena",
-    "img": "./src/images/randy-a.png",
+    "img": "./images/randy-a.png",
     "position": "OF",
     "jersey": "56",
     "birthdate": "02/28/1995",
@@ -62,7 +62,7 @@ export const players = [
   },
   {
     "name": "Dominic Canzone",
-    "img": "./src/images/dominic-c.png",
+    "img": "./images/dominic-c.png",
     "position": "OF",
     "jersey": "5",
     "birthdate": "08/16/1997",
@@ -72,7 +72,7 @@ export const players = [
   },
   {
     "name": "Victor Robles",
-    "img": "./src/images/victor-r.png",
+    "img": "./images/victor-r.png",
     "position": "OF",
     "jersey": "14",
     "birthdate": "05/19/1997",
@@ -82,7 +82,7 @@ export const players = [
   },
   {
     "name": "Josh Naylor",
-    "img": "./src/images/josh-n.png",
+    "img": "./images/josh-n.png",
     "position": "1B",
     "jersey": "22",
     "birthdate": "06/22/1997",
@@ -94,7 +94,7 @@ export const players = [
   // --- Pitchers ---
   {
     "name": "Luis Castillo",
-    "img": "./src/images/luis-c.png",
+    "img": "./images/luis-c.png",
     "position": "P",
     "jersey": "58",
     "birthdate": "12/12/1992",
@@ -104,7 +104,7 @@ export const players = [
   },
   {
     "name": "George Kirby",
-    "img": "./src/images/george-k.png",
+    "img": "./images/george-k.png",
     "position": "P",
     "jersey": "68",
     "birthdate": "02/04/1998",
@@ -114,7 +114,7 @@ export const players = [
   },
   {
     "name": "Bryan Woo",
-    "img": "./src/images/bryan-w.png",
+    "img": "./images/bryan-w.png",
     "position": "P",
     "jersey": "22",
     "birthdate": "01/30/2000",
@@ -124,7 +124,7 @@ export const players = [
   },
   {
     "name": "Andrés Muñoz",
-    "img": "./src/images/andres-m.png",
+    "img": "./images/andres-m.png",
     "position": "P",
     "jersey": "75",
     "birthdate": "01/16/1999",
