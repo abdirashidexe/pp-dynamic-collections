@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './components/Header';
+import Header from './components/Heder';
 import Playercard from './components/Card';
 import { players } from './players';
 import Footer from './components/Footer';

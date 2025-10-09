@@ -3,7 +3,7 @@ import './Card.css';
 
 export default function Playercard({player}) {
     return(
-        <div className="playercard">
+        <div className="playercards">
             <img src={player.img}></img>
             <h1 id="number">#{player.jersey}</h1>
             <h2 id="pos">{player.position}</h2>
