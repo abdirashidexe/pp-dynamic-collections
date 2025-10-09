@@ -2,7 +2,7 @@ export const players = [
   // --- Starting 9 ---
   {
     "name": "Julio Rodríguez",
-    "img": "./src/images/julio-r.png",
+    "img": "/images/julio-r.png",
     "position": "CF",
     "jersey": "44",
     "birthdate": "12/29/2000",
